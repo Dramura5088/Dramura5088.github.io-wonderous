@@ -1,2 +1,2 @@
 # Dramura5088.github.io-wonderous
-FF14 Wodnerous Tails Solver
+FF14 Wodnerous Tales Solver
